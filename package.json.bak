@@ -1,0 +1,54 @@
+{
+   "name": "SATHYA STORE",
+   "version": "3.5-beta",
+   "description": "Self Bot",
+   "main": "index.js",
+   "scripts": {
+      "start": "node ."
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/neoxr/wbot.git"
+   },
+   "keywords": [
+      "wb",
+      "bot"
+   ],
+   "author": "Wildan Izzudin",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/neoxr/wbot/issues"
+   },
+   "homepage": "https://github.com/neoxr/wbot#readme",
+   "dependencies": {
+      "@adiwajshing/baileys": "npm:@neoxr/baileys@6.7.9",
+      "@adiwajshing/keyed-db": "^0.2.4",
+      "@colors/colors": "^1.6.0",
+      "@neoxr/wb": "^1.42.58",
+      "@tobyg74/tiktok-api-dl": "^1.1.4",
+      "btoa": "^1.2.1",
+      "bytes": "^3.1.2",
+      "cfonts": "3.1.1",
+      "express": "~4.16.4",
+      "fs": "^0.0.1-security",
+      "g4f": "^1.4.3",
+      "html-pdf": "^3.0.1",
+      "ironman-api": "^1.0.2",
+      "jimp": "~0.16.13",
+      "json-stable-stringify": "^1.0.2",
+      "link-preview-js": "^3.0.5",
+      "nayan-media-downloader": "^2.1.9",
+      "node-cron": "^3.0.0",
+      "node-gtts": "^2.0.2",
+      "pdf-lib": "^1.17.1",
+      "pdf2img": "^0.5.0",
+      "pdfjs-dist": "^4.3.136",
+      "pdfkit": "^0.15.0",
+      "qrcode": "1.5.0",
+      "qrcode-reader": "^1.0.4",
+      "simple-git": "^3.24.0",
+      "speedtest-net": "1.6.2",
+      "streamifier": "^0.1.1",
+      "translate-google-api": "1.0.4"
+   }
+}

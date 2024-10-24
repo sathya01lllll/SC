@@ -1,0 +1,26 @@
+{
+   "owner": "6281329731976",
+   "owner_name": "SATHYA STORE",
+   "bot_name": "SATHYA STORE-BOTz", 
+   "organisasi_name": "SATHYA STORE", 
+   "website": "https://uadd.me/sathyastore",
+   "email": "sathyastore033@gmail.com", 
+   "database": "data",
+   "limit": 15,
+   "ram_limit": "900mb",
+   "max_upload": 750,
+   "max_upload_free": 100,
+   "cooldown": 0.1,
+   "timer": 180000,
+   "timeout": 1800000,
+   "permanent_threshold": 3,
+   "notify_threshold": 4,
+   "banned_threshold": 5,
+   "blocks": ["994", "91", "92"],
+   "evaluate_chars":  ["_=>", "_~>", "_<", "_>", "_$"],
+   "pairing": {
+      "state": true,
+      "number": 6281329731976
+   },
+   "replit_url": ""
+}
